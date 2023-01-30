@@ -18,11 +18,8 @@ function Header(){
   )
 }
 
-
-
 function Footer() {
-<footer>© 2023 Dilli development. All rights reserved.</footer>
-
+<footer>© 2023 Dilli development.All rights reserved.</footer>
 }
 
 function App() {
